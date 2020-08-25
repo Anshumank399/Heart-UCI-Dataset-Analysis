@@ -1,6 +1,7 @@
 # Heart-UCI-Dataset-Analysis
 
-A repo for basic exploratory data analysis on the Heart Disease Dataset from the UCI database.  
+Heart disease being one of the most common and feared diseases that takes away many lives, it is important to more deeply understand it.  
+This is a repository for basic exploratory data analysis on the Heart Disease Dataset from the UCI database.  
 
 Python language has been used for the analysis.  
 
