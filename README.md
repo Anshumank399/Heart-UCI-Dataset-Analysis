@@ -16,4 +16,4 @@ __Directory__
 Data : Conatins the dataset from the UCI database  
 Heart Dataset UCI.ipynb is the jupyter python file  
 
-Link to Medium Article Report: [Facts on Heart Disease]()
+Link to Medium Article Report: [Facts on Heart Disease](https://medium.com/@anshuman.kirty/facts-on-heart-disease-3f0434f078d)
